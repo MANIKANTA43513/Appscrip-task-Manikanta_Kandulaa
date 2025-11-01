@@ -1,0 +1,15 @@
+/* Global styles */
+:root{
+  --accent: #3b82f6;
+  --muted: #6b7280;
+  --card-bg: #ffffff;
+  --page-bg: #f8fafc;
+}
+html,body,#root{height:100%;}
+body{
+  margin:0;
+  font-family: Inter, Roboto, Arial, sans-serif;
+  background:var(--page-bg);
+  color:#111827;
+}
+a{color:inherit;}
