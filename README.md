@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Appscrip Task - Manikandan
 
 Minimal React Product Listing Page (PLP) implementation.
@@ -22,3 +23,6 @@ This project fetches product data from https://fakestoreapi.com/ and implements:
 - Basic SEO meta tags in public/index.html
 - Responsive CSS (grid)
 - Minimal dependencies
+=======
+# Appscrip-task-Manikanta_Kandula
+>>>>>>> f2284e2cf4255fcacb735504ecb83f0d48750f05
